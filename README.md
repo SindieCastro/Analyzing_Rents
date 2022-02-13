@@ -1,6 +1,15 @@
 # Analyzing_Rents
-This is a work in progress and we are thinking of creating an app.
+
+Clinet asked for a userform for staff to enter data and for a dashboard that updates as data is manipulated.
 
 ## Purpose
-Create a UserForm and a Dashboard to calculate and visualize monthly rents as well as monthly expenses.
+
+Create a userForm and a dashboard to calculate and visualize monthly rents as well as monthly expenses.
+
+## Results
+
+### Start Userform
+
+The user 
+
 
